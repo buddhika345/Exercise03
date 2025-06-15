@@ -35,36 +35,6 @@ This project involves a traffic analysis exercise based on a captured PCAP file 
 
 python sha256_hash.py extracted_file.exe
 
-## Final IOC Summary
-
-### ✅ Malicious IP Addresses
-
-* `185.234.247.109`
-* `107.189.3.83`
-* `185.180.143.101`
-
-### ✅ Malicious Domains
-
-* `install.premiumservice[.]cc`
-* `osupdates.protectedservice[.]net`
-
-### ✅ URLs Involved
-
-* `http://install.premiumservice[.]cc/sus/payload.exe`
-* `http://osupdates.protectedservice[.]net/update/setup.asp`
-
-### ✅ Extracted Malware SHA256 Hashes
-
-* `3c01bdbb26f358bab27f267924aa2c9a03fcfdb8bc29a86a5b236fd93c6b7c52`
-* `b9c3d7ff4fa4ed30b0d2bfa4ffab9d3ce1a5b44773a24a7d0ddf6d38472801c1`
-
-### ✅ Victim Details
-
-* **Infected Host IP:** `172.17.0.20`
-* **Hostname:** `DESKTOP-1HQ3LM1`
-* **Username:** `John.Doe`
-
----
 
 ## Tools Used
 
@@ -72,14 +42,10 @@ python sha256_hash.py extracted_file.exe
 * Python (for hashing and decoding)
 * Custom scripts for IOC extraction
 
----
-
 ## Author
 
 Pradeep B wijerathna
 Final Year Cybersecurity Student | Network Security & Ethical Hacking Enthusiast
-
----
 
 ## License
 
